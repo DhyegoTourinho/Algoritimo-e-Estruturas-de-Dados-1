@@ -1,2 +1,5 @@
-Atividades propostas pelo professor de Algoritmo e estrutura de dados 1.
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+** color:#00000 Atividades propostas pelo professor de Algoritmo e estrutura de dados 1.**
+#header {
+	border-top: 10px solid #11242e;
+	background: #193442;
+}
